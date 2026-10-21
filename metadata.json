@@ -1,0 +1,6 @@
+{
+  "name": "SMS Game Arena",
+  "description": "An interactive SMS messaging gaming platform and simulator featuring trivia master, word scrambles, riddles, math duels, and text RPG adventures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
